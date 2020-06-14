@@ -5,7 +5,7 @@ This is a simple educational tool which can be used to convert Celsius to Fahren
 
 <div align="center"><img src="images/Screenshot_F2C.png" alt="image1"></div>
 
-## 📝 License
+## 📝  License
 
 The project is available as open source under the terms of the MIT License.
 
